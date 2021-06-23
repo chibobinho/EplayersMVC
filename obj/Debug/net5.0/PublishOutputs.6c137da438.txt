@@ -1,0 +1,84 @@
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\ExemploEplayersMvc.exe
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\css\site.css
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\css\style.css
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\favicon.ico
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\3vo5p9L.png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\7d4abd5c1bd9a899083a60e4ccaf5c2d.png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\9a6e4f50b0d94f75ce274348f06a6d56.png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\cadastro.png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\CBLOL_2017.png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\download (1).png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\download (2).png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\download (3).png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\download (4).png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\download (5).png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\download (6).png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\download (7).png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\download (8).png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\download (9).png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\download.png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\FLA.png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\Liga_Master_Fibertel.png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\Logo.svg
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\lol-champions-png-8.png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\meta_mundo.jpg
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\nVBwTfr.png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\SK.png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\SuperLigaABCDE.png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\Teams\T1.jpeg
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\Teams\T10.jpg
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\Teams\T2.jpg
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\Teams\T3.jpeg
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\Teams\T4.jpg
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\Teams\T5.jpeg
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\Teams\T6.jpg
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\Teams\T7.jpeg
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\Teams\T8.jpg
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\Teams\T9.jpeg
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\wgr_lplol-logo-2020-71fc5702eb0473cb8d1da98fc28d054bebbfa505d4d80b457b11754d8a737255.png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\Images\worlds-logo-gold.png
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\img\Equipes\Cópia de BDP - CARDÁPIO (1).pdf
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\img\Equipes\denuncia.PNG
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\img\Equipes\P1 FLUXOGRAMA.PNG
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\js\site.js
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\bootstrap\LICENSE
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\additional-methods.js
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\jquery-validation\LICENSE.md
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\jquery\dist\jquery.js
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\jquery\dist\jquery.min.js
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\jquery\dist\jquery.min.map
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\wwwroot\lib\jquery\LICENSE.txt
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\appsettings.Development.json
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\appsettings.json
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\ExemploEplayersMvc.dll
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\ExemploEplayersMvc.deps.json
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\ExemploEplayersMvc.runtimeconfig.json
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\ExemploEplayersMvc.pdb
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\ExemploEplayersMvc.Views.dll
+C:\Users\Pichau\Desktop\ExemploEplayersMvc\bin\Debug\net5.0\publish\ExemploEplayersMvc.Views.pdb
